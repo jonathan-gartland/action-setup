@@ -16,6 +16,7 @@ async function main() {
   pnpmInstall(inputs)
 }
 
+// comment to have change to push
 main().catch(error => {
   console.error(error)
   setFailed(error)
