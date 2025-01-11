@@ -11,3 +11,4 @@ temp
 tmp.*
 temp.*
 .pnpm-store
+/.idea/
